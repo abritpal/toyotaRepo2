@@ -13,5 +13,5 @@ public class DemoController {
 	public String method2() {
 		return("hi hi");
 	}
-	System.out.println("hi")
+//	System.out.println("hi");
 }
