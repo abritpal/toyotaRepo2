@@ -9,5 +9,9 @@ public class DemoController {
 	public String method1() {
 		return("hi");
 	}
-	
+	@RequestMapping(value="/Hai")
+	public String method2() {
+		return("hi hi");
+	}
+		
 }
